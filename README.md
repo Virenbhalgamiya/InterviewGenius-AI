@@ -64,8 +64,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/virenbhalgamiya/InterviewGenius_AI.git
-cd 
+git clone https://github.com/Virenbhalgamiya/InterviewGenius-AI.git
+cd InterviewGenius-AI
 ```
 
 **Installation**
@@ -679,5 +679,6 @@ export const dummyInterviews: Interview[] = [
 ```
 
 </details>
+
 
 
